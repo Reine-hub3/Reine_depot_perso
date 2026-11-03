@@ -1,27 +1,35 @@
-Nom et prénom : KOONOU SOSSOU Reine
-Pseudo Kaggle : Reinesossou
-Dépôt (lien) : https://github.com/Reine-hub3/Reine_depot_perso
-Rendu : DM1 (carnets J1 et J2)
-Date : 18 octobre 2026
+# Déclaration DM1 — Carnets J3 et J4
 
-1. Ce que j'ai produit moi-même
+**Nom et prénom :** KOONOU SOSSOU Reine  
+**Pseudo GitHub :** Reinesossou  
+**Dépôt GitHub :** https://github.com/Reine-hub3/Reine_depot_perso  
+**Rendu :** DM1 (carnets J3 et J4)  
+**Questions traitées :** Questions 1 à 12  
+**Date :** 3 novembre 2026
 
-• J'ai écrit mes prédictions, de la question 1 à la question 15, avant de lancer les mesures.
-• J'ai rédigé les textes d'interprétation du carnet (lectures, verdicts, constats).
-• J'ai exécuté le carnet, lu les sorties et les contrôles, et corrigé mes cellules quand une erreur apparaissait.
+## 1. Ce que j'ai produit moi-même
 
-2. Ce que j'ai fait avec un assistant
+- J'ai travaillé sur les questions 1 à 12 des carnets J3 et J4.
+- J'ai rédigé mes réponses et mes interprétations des résultats.
+- J'ai exécuté les cellules des carnets et examiné les résultats obtenus.
+- J'ai corrigé les cellules lorsque des erreurs apparaissaient.
 
+## 2. Ce que j'ai fait avec un assistant
 
-Outil utilisé	Ce qu'il a produit	Ce que j'ai vérifié moi-même
-Claude (Anthropic)	Le code des questions 1 à 15 (balayage des colonnes, tirages de la barre de bruit, comparaison arbres/linéaire, essais, fonction suspects, tranches du rappel, table de crédit)	J'ai exécuté chaque cellule dans Kaggle (Run All), lu les sorties et les contrôles ok / REVOIR, et signalé les erreurs à l'assistant.
-Claude (Anthropic)	Un diagnostic de mes erreurs : session Kaggle sans train, prédictions non enregistrées avant essai, cellule de la Q15 sans ses contrôles, soumission refusée par Kaggle	J'ai relancé les cellules corrigées et comparé mon submission.csv au fichier d'exemple de la compétition.
+**Outil utilisé : ChatGPT**
 
-3. Ce que je ne saurais pas expliquer
+J'ai utilisé ChatGPT pour m'aider à comprendre les questions, à écrire du code et à résoudre les difficultés rencontrées pendant le travail.
 
-• Le code produit avec l'assistant : je ne saurais pas expliquer chaque ligne de ces codes à l'oral.
+J'ai examiné les réponses proposées et vérifié les résultats obtenus en exécutant les cellules dans Kaggle.
 
-4. Chiffres
+## 3. Ce que je ne saurais pas encore expliquer
 
-• score interne mesuré : 82.50775542880015 %
-• score public déclaré : 82,51 % (arrondi à deux décimales selon les standards de la compétition)
+Je ne suis pas encore capable d'expliquer chaque ligne du code produit avec l'aide de l'intelligence artificielle. Je dois donc approfondir ma compréhension du code, des méthodes utilisées et des résultats obtenus.
+
+## Déclaration personnelle
+
+Je reconnais avoir utilisé ChatGPT comme outil d'assistance pour réaliser ce travail. Je m'engage à mieux comprendre les solutions proposées afin de pouvoir expliquer les principales étapes de mon travail.
+
+**Fait le 3 novembre 2026.**
+
+**KOONOU SOSSOU Reine**
